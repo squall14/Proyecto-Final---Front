@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nombre": "Camiseta de Fútbol Titular", "categoria": "futbol", "precio": 45990, "descripcion": "Camiseta oficial de local, tejido transpirable y ajuste atlético." },
+  { "id": 2, "nombre": "Botines de Fútbol Profesionales", "categoria": "futbol", "precio": 89990, "descripcion": "Botines de tapones multitacos para cancha de césped natural." },
+  { "id": 3, "nombre": "Pelota de Fútbol Oficial N°5", "categoria": "futbol", "precio": 34990, "descripcion": "Pelota reglamentaria, costura termosellada, para uso en cancha." },
+  { "id": 4, "nombre": "Guantes de Arquero Profesionales", "categoria": "futbol", "precio": 54990, "descripcion": "Guantes con palma de látex de alta adherencia y protección de dedos." },
+  { "id": 5, "nombre": "Camiseta de Básquet Réplica", "categoria": "basquet", "precio": 39990, "descripcion": "Camiseta sin mangas de malla liviana, ideal para entrenar y jugar." },
+  { "id": 6, "nombre": "Pelota de Básquet Indoor/Outdoor", "categoria": "basquet", "precio": 29990, "descripcion": "Pelota de goma reforzada apta para cancha techada y al aire libre." },
+  { "id": 7, "nombre": "Zapatillas de Running", "categoria": "running", "precio": 99990, "descripcion": "Amortiguación de alta respuesta para entrenamientos de fondo." },
+  { "id": 8, "nombre": "Short de Running Transpirable", "categoria": "running", "precio": 24990, "descripcion": "Tela liviana de secado rápido con bolsillo interno para llaves." },
+  { "id": 9, "nombre": "Raqueta de Tenis de Grafito", "categoria": "accesorios", "precio": 119990, "descripcion": "Marco de grafito liviano, ideal para jugadores de nivel intermedio." },
+  { "id": 10, "nombre": "Mochila Deportiva Multiuso", "categoria": "accesorios", "precio": 37990, "descripcion": "Compartimento para calzado y botella, resistente al agua." },
+  { "id": 11, "nombre": "Casco de Ciclismo Ventilado", "categoria": "accesorios", "precio": 64990, "descripcion": "Casco liviano con 18 ventilaciones y cierre de ajuste rápido." },
+  { "id": 12, "nombre": "Medias Deportivas de Compresión (pack x3)", "categoria": "accesorios", "precio": 14990, "descripcion": "Compresión gradual para mejorar la circulación durante el ejercicio." }
+]
